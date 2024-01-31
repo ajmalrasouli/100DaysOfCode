@@ -22,4 +22,5 @@ Day 21: Python for Everybody - www.freecodecamp.org/learn/python-for-everybody
 Day 22: Python for Everybody - www.freecodecamp.org/learn/python-for-everybody
 Day 23: Getting Started with Machine Learning in Python
 Day 24: PYnative: Learn Python with Tutorials, Exercises, and Quizzes (https://pynative.com/python-exercises-with-solutions/)
-Day 25: Created a a python app to track my progress during the #100DaysOfCode challenge.
+Day 25: Created a a python app to track my progress during the #100DaysOfCode challenge.Day 26: Used nested loops to Print Pattern in Python
+Day 26: Used nested loops to Print Pattern in Python.

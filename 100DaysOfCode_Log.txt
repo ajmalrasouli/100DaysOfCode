@@ -27,6 +27,7 @@ Day 26: Used nested loops to Print Pattern in Python.
 Day 27: More Python Loops
 Day 28: Yet More Python Loops
 Day 29: Learnt about Python Data types
-Dat 30: Python List Data Type
+Day 30: Python List Data Type
+Day 31: Python Dictionaries
 
 

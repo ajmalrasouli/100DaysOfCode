@@ -30,5 +30,4 @@ Day 29: Learnt about Python Data types
 Day 30: Python List Data Type
 Day 31: Python Dictionaries
 Day 32: Python List and Set
-
-
+Day 33: Python Tuples

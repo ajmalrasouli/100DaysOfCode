@@ -32,3 +32,4 @@ Day 31: Python Dictionaries
 Day 32: Python List and Set
 Day 33: Python Tuples
 Day 34: Learnt about Python List Comprehensions
+Day 35: GUI Programming with Python

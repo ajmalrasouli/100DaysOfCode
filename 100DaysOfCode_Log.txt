@@ -39,3 +39,4 @@ Day 38: Did 5 Python Examples By (Gábor Szabó) eBook
 Day 39: Did 10 Python Examples By (Gábor Szabó) eBook
 Day 40: Today, I learned about Python String slice (Gábor Szabó) eBook
 Day 41: Today, I learned about Python Open and read file
+Day 42: Today, I learned about Python and Regular Expressions

@@ -42,3 +42,4 @@ Day 41: Today, I learned about Python Open and read file
 Day 42: Today, I learned about Python and Regular Expressions
 Day 43: Learned Python standard modules (sys, os, stat,shutil, glob, subprocess, math, time, datetime, random)
 Day 44: Accessing the system environment variables from Python
+Day 45: Python Handling errors as exceptions

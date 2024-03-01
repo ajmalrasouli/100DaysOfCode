@@ -50,3 +50,4 @@ Day 49: Install MySQL support (Anaconda on MS Windows: conda install mysql-conne
 Day 50: Python and Postgresql (PostgreSQL connect, Insert, Select, Delete)
 Day 51: Connecting to SQL Database using SQLAlchemy in Python
 Day 52: NoSQL (Document oriented - MongoDB, Key-Value store - Redis, Graph - Neo4j, Tuple store - Apache River, TIBCO)
+Day 53: Learning Python Flask - Python offers powerful frameworks like Django and Flask for backend development.

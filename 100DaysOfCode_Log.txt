@@ -53,3 +53,4 @@ Day 52: NoSQL (Document oriented - MongoDB, Key-Value store - Redis, Graph - Neo
 Day 53: Learning Python Flask - Python offers powerful frameworks like Django and Flask for backend development.
 Day 54: Python Networking (ssh, telnet, nmap, ftp, Interactive shell, using Modules)
 Day 55: Python Functional programming (Iterators)
+Day 56: Python Advanced Exception handling

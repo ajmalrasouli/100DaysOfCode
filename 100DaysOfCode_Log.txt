@@ -54,3 +54,4 @@ Day 53: Learning Python Flask - Python offers powerful frameworks like Django an
 Day 54: Python Networking (ssh, telnet, nmap, ftp, Interactive shell, using Modules)
 Day 55: Python Functional programming (Iterators)
 Day 56: Python Advanced Exception handling
+Day 57: Python CSV (Reading a .csv file, csv to dictionary)

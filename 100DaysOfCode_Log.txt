@@ -59,3 +59,4 @@ Day 58: Working with Excel Files in Python (openpyxl, xlsxwriter, pyxlsb, pyligh
 Day 59: XML (XML data, XML DOM [Document Object Model], XML SAX [Simple API for XML], SAX collect, XML elementtree)
 Day 60: Pandas Python Data Analysis Library
 Day 61: Data science library NumPy (NumPy is a Python library used for working with arrays). NumPy is up to 50x faster than traditional Python lists.
+Day 62: Matplotlib - it is a comprehensive library for creating static, animated, and interactive visualizations in Python.

@@ -61,3 +61,4 @@ Day 60: Pandas Python Data Analysis Library
 Day 61: Data science library NumPy (NumPy is a Python library used for working with arrays). NumPy is up to 50x faster than traditional Python lists.
 Day 62: Matplotlib - it is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 Day 63:  Followed the Intermediate Python Programming Course from freeCodeCamp.com. Approx. 5.5 hours course.
+Day 64: How To Build A Database Using Python

@@ -66,3 +66,4 @@ Day 65: Python OOP Concepts (Class, Object, Encapsulation, Inheritance, Polymorp
 Day 66: Create online multiplayer games with python & networking (https://www.techwithtim.net/)
 Day 67: Practice with Python program examples (https://www.geeksforgeeks.org/python-programming-examples/?ref=shm)
 Day 68: Learned how to use Cookiecutter to generate your first project from a cookiecutter project template (cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git)
+Day 69: Web Scraping in Python, HTML Parser, and Beautiful Soup library

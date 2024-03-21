@@ -69,3 +69,4 @@ Day 68: Learned how to use Cookiecutter to generate your first project from a co
 Day 69: Web Scraping in Python, HTML Parser, and Beautiful Soup library
 Day 70: Pull data from an API in Python. Data is of the utmost importance these days because it drives applications and businesses.
 Day 71: Pandas is a Python library. Pandas is used to analyze data. Learned how to read data.
+Day 72: Pandas is a Python library. Pandas is used to analyze data. Learned Panda Series, DataFrames, Read CSV, JSON

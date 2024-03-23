@@ -70,4 +70,6 @@ Day 69: Web Scraping in Python, HTML Parser, and Beautiful Soup library
 Day 70: Pull data from an API in Python. Data is of the utmost importance these days because it drives applications and businesses.
 Day 71: Pandas is a Python library. Pandas is used to analyze data. Learned how to read data.
 Day 72: Pandas is a Python library. Pandas is used to analyze data. Learned Panda Series, DataFrames, Read CSV, JSON
-Day 73: Learned Panda Analyzing DataFrames,Cleaning data, Pandas plotting 
+Day 73: Learned Panda Analyzing DataFrames,Cleaning data, Pandas plotting
+Day 74: Learned Socket Programming in Python.
+Socket programming enables the communication for sending and receiving the data between the socket endpoints by using the code logic.

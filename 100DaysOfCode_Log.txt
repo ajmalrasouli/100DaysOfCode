@@ -75,3 +75,4 @@ Day 74: Learned Socket Programming in Python.
 Socket programming enables the communication for sending and receiving the data between the socket endpoints by using the code logic.
 Day 75: Modified a simple Space Invaders game built in Python using the turtle graphics library and added sound and background.
 Day 76: Completed practice exams and quizzes in Python to gauge my level of knowledge. https://www.tutorialsteacher.com/online-test/python-test
+Day 77: Doing Things to Lists.(Index, Count, Sort, Append, Remove, Pop, Extend, Insert)

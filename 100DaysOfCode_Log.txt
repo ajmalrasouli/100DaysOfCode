@@ -80,3 +80,4 @@ Day 78: Followed Google's Python Class (https://developers.google.com/edu/python
 Day 79: Did coding challenges using Python on https://www.codewars.com/
 Day 80: Keep practicing on the codewars.com
 Day 81: Following Automate the Boring Stuff with Python By Al Sweigart. https://automatetheboringstuff.com/
+Day 82: Continueing on Automate the Boring Stuff with Python By Al Sweigart.

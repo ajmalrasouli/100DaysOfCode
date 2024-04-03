@@ -83,3 +83,5 @@ Day 81: Following Automate the Boring Stuff with Python By Al Sweigart. https://
 Day 82: Continueing on Automate the Boring Stuff with Python By Al Sweigart.
 Day 83: Continueing on Automate the Boring Stuff i.e., Keeping Time,Scheduling Tasks,and Launching Programs using Python
 Day 84: Continuing on Automate the Boring Stuff i.e., Sending an Email, Sending Text Messages with Twilio
+Day 85: Continuing on Automate the Boring Stuff i.e., Manipulating Images with Pillow. Pillow is a third-party Python module for interacting with image files.The module has several functions that make it easy to crop, resize, and
+edit the content of an image.

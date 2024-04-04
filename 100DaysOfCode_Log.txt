@@ -85,3 +85,5 @@ Day 83: Continueing on Automate the Boring Stuff i.e., Keeping Time,Scheduling T
 Day 84: Continuing on Automate the Boring Stuff i.e., Sending an Email, Sending Text Messages with Twilio
 Day 85: Continuing on Automate the Boring Stuff i.e., Manipulating Images with Pillow. Pillow is a third-party Python module for interacting with image files.The module has several functions that make it easy to crop, resize, and
 edit the content of an image.
+Day 86: Day 85: Controlling the Keyboard and Mouse with GUI Automation. But using GUI automation allows you
+to make use of the advanced drawing tools that graphics programs can provide, such as gradients, different brushes, or the fill bucket. Python Modules (pyautogui, pyperclip).

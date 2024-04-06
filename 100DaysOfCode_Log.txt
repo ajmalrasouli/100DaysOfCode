@@ -88,4 +88,4 @@ edit the content of an image.
 Day 86: Day 85: Controlling the Keyboard and Mouse with GUI Automation. But using GUI automation allows you
 to make use of the advanced drawing tools that graphics programs can provide, such as gradients, different brushes, or the fill bucket. Python Modules (pyautogui, pyperclip).
 Day 87: Continuing on Automate the Boring Stuff i.e., sneak away from your desk for a while but don’t want others to see your status go into idle mode. 
-
+Day 88:  Created a SQLite Address Book, with Python GUI for managing contacts with CSV import/export.

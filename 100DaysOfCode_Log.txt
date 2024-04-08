@@ -90,3 +90,5 @@ to make use of the advanced drawing tools that graphics programs can provide, su
 Day 87: Continuing on Automate the Boring Stuff i.e., sneak away from your desk for a while but don’t want others to see your status go into idle mode. 
 Day 88:  Created a SQLite Address Book, with Python GUI for managing contacts with CSV import/export.
 Day 89: Following a book called "{50 DAYS PYTHON} A challenge a Day By [Benjamin Bennett Alexander]"
+Day 90: Continuing Following a book called "{50 DAYS PYTHON} A challenge a Day By [Benjamin Bennett Alexander]".
+I am on challenge 21.

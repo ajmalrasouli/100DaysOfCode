@@ -93,3 +93,4 @@ Day 89: Following a book called "{50 DAYS PYTHON} A challenge a Day By [Benjamin
 Day 90: Continuing Following a book called "{50 DAYS PYTHON} A challenge a Day By [Benjamin Bennett Alexander]".
 I am on challenge 21.
 Day 91: Continuing on above book. I am on challenge 25.
+Day 92-93: Following PYTHONTIPS & TRICKS A COLLECTION OF 100 BASIC & INTERMEDIATE TIPS AND TRICKS By Benjamin Bennett Alexande

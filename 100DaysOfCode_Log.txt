@@ -95,3 +95,4 @@ I am on challenge 21.
 Day 91: Continuing on above book. I am on challenge 25.
 Day 92-93: Following PYTHONTIPS & TRICKS A COLLECTION OF 100 BASIC & INTERMEDIATE TIPS AND TRICKS By Benjamin Bennett Alexande
 Day 94: Getting through some coding challenges with Python on @codewars
+Day 95: Enhanced version of the Python whiteboard app at https://www.freecodecamp.org/news/build-a-whiteboard-app/. Added a "Save Image" and "Eraser" buttons.

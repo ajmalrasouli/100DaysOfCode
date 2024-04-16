@@ -98,3 +98,4 @@ Day 94: Getting through some coding challenges with Python on @codewars
 Day 95: Enhanced version of the Python whiteboard app at https://www.freecodecamp.org/news/build-a-whiteboard-app/. Added a "Save Image" and "Eraser" buttons.
 Day 96: I spent some time sharpening my skills by completing a variety of challenges on HackerRank. 
 You can check at https://www.hackerrank.com/dashboard.
+Day 97: Did more challenges on HackerRank

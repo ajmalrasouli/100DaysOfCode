@@ -99,4 +99,5 @@ Day 95: Enhanced version of the Python whiteboard app at https://www.freecodecam
 Day 96: I spent some time sharpening my skills by completing a variety of challenges on HackerRank. 
 You can check at https://www.hackerrank.com/dashboard.
 Day 97: Did more challenges on HackerRank
-Day 98: Python Tutorial for Beginners (with mini-projects). https://www.youtube.com/watch?v=qwAFL1597eM&t=2127s&ab_channel=freeCodeCamp.org 
+Day 98: Python Tutorial for Beginners (with mini-projects). https://www.youtube.com/watch?v=qwAFL1597eM&t=2127s&ab_channel=freeCodeCamp.org
+Day 99: I've spent today delving into the Python documentation, which serves as an indispensable tool for grasping the language's potential and utilizing its features efficiently. For those interested, here's the link: https://docs.python.org/3.12/.

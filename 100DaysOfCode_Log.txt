@@ -101,3 +101,4 @@ You can check at https://www.hackerrank.com/dashboard.
 Day 97: Did more challenges on HackerRank
 Day 98: Python Tutorial for Beginners (with mini-projects). https://www.youtube.com/watch?v=qwAFL1597eM&t=2127s&ab_channel=freeCodeCamp.org
 Day 99: I've spent today delving into the Python documentation, which serves as an indispensable tool for grasping the language's potential and utilizing its features efficiently. For those interested, here's the link: https://docs.python.org/3.12/.
+Day 100: This marks the completion of my 100-day journey. Today, I engaged in a project utilizing Python, SQLite3, and Flask.

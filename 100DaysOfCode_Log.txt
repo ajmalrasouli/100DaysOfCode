@@ -1,4 +1,4 @@
-Day 1: Install Python on Windows for VSC - Run Hello World!
+Day 1: Install Python on Windows for VSCode - Run Hello World!
 Day 2: Install Python on Linux for VSC - Run Hello World!
 Day 3: Python for beginners Microsoft Learn
 Day 4: Python for Beginners freeCodeCamp.org (YouTube)
@@ -71,8 +71,7 @@ Day 70: Pull data from an API in Python. Data is of the utmost importance these 
 Day 71: Pandas is a Python library. Pandas is used to analyze data. Learned how to read data.
 Day 72: Pandas is a Python library. Pandas is used to analyze data. Learned Panda Series, DataFrames, Read CSV, JSON
 Day 73: Learned Panda Analyzing DataFrames,Cleaning data, Pandas plotting
-Day 74: Learned Socket Programming in Python.
-Socket programming enables the communication for sending and receiving the data between the socket endpoints by using the code logic.
+Day 74: Learned Socket Programming in Python. Socket programming enables the communication for sending and receiving the data between the socket endpoints by using the code logic.
 Day 75: Modified a simple Space Invaders game built in Python using the turtle graphics library and added sound and background.
 Day 76: Completed practice exams and quizzes in Python to gauge my level of knowledge. https://www.tutorialsteacher.com/online-test/python-test
 Day 77: Doing Things to Lists.(Index, Count, Sort, Append, Remove, Pop, Extend, Insert)
@@ -83,22 +82,19 @@ Day 81: Following Automate the Boring Stuff with Python By Al Sweigart. https://
 Day 82: Continueing on Automate the Boring Stuff with Python By Al Sweigart.
 Day 83: Continueing on Automate the Boring Stuff i.e., Keeping Time,Scheduling Tasks,and Launching Programs using Python
 Day 84: Continuing on Automate the Boring Stuff i.e., Sending an Email, Sending Text Messages with Twilio
-Day 85: Continuing on Automate the Boring Stuff i.e., Manipulating Images with Pillow. Pillow is a third-party Python module for interacting with image files.The module has several functions that make it easy to crop, resize, and
-edit the content of an image.
-Day 86: Day 85: Controlling the Keyboard and Mouse with GUI Automation. But using GUI automation allows you
-to make use of the advanced drawing tools that graphics programs can provide, such as gradients, different brushes, or the fill bucket. Python Modules (pyautogui, pyperclip).
+Day 85: Continuing on Automate the Boring Stuff i.e., Manipulating Images with Pillow. Pillow is a third-party Python module for interacting with image files.The module has several functions that make it easy to crop, resize, and edit the content of an image.
+Day 86: Controlling the Keyboard and Mouse with GUI Automation. But using GUI automation allows you to make use of the advanced drawing tools that graphics programs can provide, such as gradients, different brushes, or the fill bucket. Python Modules (pyautogui, pyperclip).
 Day 87: Continuing on Automate the Boring Stuff i.e., sneak away from your desk for a while but don’t want others to see your status go into idle mode. 
-Day 88:  Created a SQLite Address Book, with Python GUI for managing contacts with CSV import/export.
+Day 88: Created a SQLite Address Book, with Python GUI for managing contacts with CSV import/export.
 Day 89: Following a book called "{50 DAYS PYTHON} A challenge a Day By [Benjamin Bennett Alexander]"
-Day 90: Continuing Following a book called "{50 DAYS PYTHON} A challenge a Day By [Benjamin Bennett Alexander]".
-I am on challenge 21.
+Day 90: Continuing Following a book called "{50 DAYS PYTHON} A challenge a Day By [Benjamin Bennett Alexander]". I am on challenge 21.
 Day 91: Continuing on above book. I am on challenge 25.
-Day 92-93: Following PYTHONTIPS & TRICKS A COLLECTION OF 100 BASIC & INTERMEDIATE TIPS AND TRICKS By Benjamin Bennett Alexande
+Day 92: Following PYTHONTIPS & TRICKS A COLLECTION OF 100 BASIC & INTERMEDIATE TIPS AND TRICKS By Benjamin Bennett Alexande
+Day 93: Following PYTHONTIPS & TRICKS A COLLECTION OF 100 BASIC & INTERMEDIATE TIPS AND TRICKS By Benjamin Bennett Alexande
 Day 94: Getting through some coding challenges with Python on @codewars
 Day 95: Enhanced version of the Python whiteboard app at https://www.freecodecamp.org/news/build-a-whiteboard-app/. Added a "Save Image" and "Eraser" buttons.
-Day 96: I spent some time sharpening my skills by completing a variety of challenges on HackerRank. 
-You can check at https://www.hackerrank.com/dashboard.
+Day 96: I spent some time sharpening my skills by completing a variety of challenges on HackerRank. You can check at https://www.hackerrank.com/dashboard.
 Day 97: Did more challenges on HackerRank
 Day 98: Python Tutorial for Beginners (with mini-projects). https://www.youtube.com/watch?v=qwAFL1597eM&t=2127s&ab_channel=freeCodeCamp.org
 Day 99: I've spent today delving into the Python documentation, which serves as an indispensable tool for grasping the language's potential and utilizing its features efficiently. For those interested, here's the link: https://docs.python.org/3.12/.
-Day 100: This marks the completion of my 100-day journey. Today, I engaged in a project utilizing Python, SQLite3, and Flask.
+Day 100: This marks the completion of my 100-day journey. Today, I engaged in a project utilizing Python, SQLite3, and Flask.sk.
